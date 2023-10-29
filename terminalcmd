@@ -1,1 +1,3 @@
-
+npm install -D tailwindcss
+npm i --legacy-peer-deps -D postcss autoprefixer
+npx tailwindcss init
